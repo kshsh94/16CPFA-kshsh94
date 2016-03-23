@@ -1,6 +1,8 @@
-my_name = 'Zed A. Shaw'
-my_age = 35 # not a lie
+my_name = 'SeungHee Kim'
+my_age = 23 # not a lie
 my_height = 74 # inches
+cm_to_inch = 1.0 / 2.54
+my_height_inch = my_height_cm * cm_to_inch
 my_weight = 180 # lbs
 my_eyes = 'Blue'
 my_teeth = 'White'
